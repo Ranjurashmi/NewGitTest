@@ -11,3 +11,4 @@ Image[](1_uxErXo6q0-N5dkFK_ttSZw](https://user-images.githubusercontent.com/1050
 ## Statistics
 
 ## Visual Communications
+[yelp_labeled.txt](https://github.com/Ranjurashmi/NewGitTest/files/8638068/yelp_labeled.txt)
